@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 
-export default function ShopItem() {
+export default function ShopItem(item) {
 
     return (<div style={mainContent}> {/*className="main-content"*/} 
             <h2>Tiger of Sweden</h2>
